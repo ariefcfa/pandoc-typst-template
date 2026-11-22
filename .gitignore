@@ -1,0 +1,9 @@
+# Ignore a specific file
+# secret-notes.txt
+
+# Ignore an entire folder (trailing slash)
+examples-original/
+
+# Ignore all files with a specific extension
+# *.zip
+# *.mp4
